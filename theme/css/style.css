@@ -28,7 +28,7 @@ p {
 }
 
 body {
-  background: #ffffff;
+  background: #d1d8ef;
 }
 
 ul {
@@ -91,7 +91,7 @@ a:hover {
 .social-share a {
   font-size: 20px;
   color: #fff;
-  background: #02bdd5;
+  background: #2b96e8;
   padding: 4px 10px;
   display: inline-block;
 }
@@ -112,7 +112,7 @@ a:hover {
 }
 
 .fancybox-prev span {
-  background: url("../images/icons/left.png") no-repeat scroll center center #009ee3;
+  background: url("../images/icons/left.png") no-repeat scroll center center #e4ebed;
   height: 50px;
   width: 50px;
   left: 0;
@@ -131,13 +131,13 @@ a:hover {
   background-size: cover;
   padding: 120px 0 25px 0;
   position: relative;
-  background: #02bdd5;
+  background: white;
   color: #fff;
 }
 .global-page-header h2 {
   font-size: 42px;
   font-weight: bold;
-  color: #fff;
+  color: black;
   text-transform: uppercase;
 }
 .global-page-header .breadcrumb {
@@ -187,7 +187,7 @@ a:hover {
 }
 .top-bar.animated-header {
   padding: 20px 0;
-  background: #fff;
+  background: black;
   box-shadow: none;
 }
 
@@ -198,10 +198,10 @@ a:hover {
   padding: 0;
 }
 .navbar.bg-light {
-  background: #fff !important;
+  background: black !important;
 }
 .navbar .nav-item .nav-link {
-  color: #444 !important;
+  color: rgb(249, 239, 239) !important;
   font-size: 14px;
   font-weight: 500;
   transition: 0.3s all;
@@ -210,7 +210,7 @@ a:hover {
   display: block;
 }
 .navbar .nav-item .nav-link:hover {
-  color: #02bdd5 !important;
+  color: #2b96e8 !important;
 }
 .navbar .nav-item:last-child .nav-link {
   padding-right: 0;
@@ -251,7 +251,7 @@ a:hover {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .dropdown-item:hover {
-  color: #02bdd5 !important;
+  color: #2b96e8 !important;
   background: transparent;
 }
 .dropdown:hover .dropdown-menu {
@@ -261,11 +261,11 @@ a:hover {
 }
 
 #hero-area {
-  background: url("../images/slider.jpg") no-repeat 50%;
+  background: url("https://images.pexels.com/photos/205316/pexels-photo-205316.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat 50%;
   background-size: cover;
   background-attachment: fixed;
   padding: 230px 0;
-  color: #fff;
+  color:white;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   position: relative;
 }
@@ -316,7 +316,7 @@ a:hover {
 }
 
 #call-to-action {
-  background: #02bdd5;
+  background: #050504;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
@@ -342,7 +342,7 @@ a:hover {
 #call-to-action .block .btn-contact {
   background: #fff;
   border: 2px solid #fff;
-  color: #02bdd5;
+  color: #b9d4f3;
   padding: 15px 34px;
   margin-top: 20px;
   font-size: 12px;
@@ -356,7 +356,7 @@ a:hover {
 }
 #call-to-action .block .btn-contact:hover {
   color: #fff;
-  background: #02bdd5;
+  background: #2b96e8;
 }
 
 #about {
@@ -393,13 +393,13 @@ a:hover {
   font-weight: 300;
 }
 .about-feature .about-feature-1 {
-  background: #02bdd5;
+  background: #2b96e8;
 }
 .about-feature .about-feature-2 {
-  background: #00B0C7;
+  background: #2b96e8;
 }
 .about-feature .about-feature-3 {
-  background: #00A6BB;
+  background: #2b96e8;
 }
 
 .works {
@@ -503,8 +503,8 @@ figure .buttons {
   display: inline-block;
 }
 figure .buttons a:hover {
-  background: #02bdd5;
-  border-color: #02bdd5;
+  background: #2b96e8;
+  border-color: #2b96e8;
 }
 figure .buttons a:focus {
   text-decoration: none;
@@ -518,7 +518,7 @@ figure figcaption h4 {
   margin: 0;
 }
 figure figcaption h4 a {
-  color: #02bdd5;
+  color: #2b96e8;
 }
 figure figcaption p {
   font-size: 14px;
@@ -552,7 +552,7 @@ figure figcaption p {
 #feature .icon {
   text-decoration: none;
   color: #fff;
-  background-color: #02bdd5;
+  background-color: #2b96e8;
   height: 100px;
   text-align: center;
   width: 100px;
@@ -563,12 +563,12 @@ figure figcaption p {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  text-shadow: #00a4ba 1px 1px, #00a4ba 2px 2px, #00a4ba 3px 3px, #00a4ba 4px 4px, #00a4ba 5px 5px, #00a4ba 6px 6px, #00a4ba 7px 7px, #00a4ba 8px 8px, #00a4ba 9px 9px, #00a4ba 10px 10px, #00a4ba 11px 11px, #00a4ba 12px 12px, #00a4ba 13px 13px, #00a4ba 14px 14px, #00a4ba 15px 15px, #00a4ba 16px 16px, #00a4ba 17px 17px, #00a4ba 18px 18px, #00a4ba 19px 19px, #00a4ba 20px 20px, #00a4ba 21px 21px, #00a4ba 22px 22px, #00a4ba 23px 23px, #00a4ba 24px 24px, #00a4ba 25px 25px, #00a4ba 26px 26px, #00a4ba 27px 27px, #00a4ba 28px 28px, #00a4ba 29px 29px, #00a4ba 30px 30px, #00a4ba 31px 31px, #00a4ba 32px 32px, #00a4ba 33px 33px, #00a4ba 34px 34px, #00a4ba 35px 35px, #00a4ba 36px 36px, #00a4ba 37px 37px, #00a4ba 38px 38px, #00a4ba 39px 39px, #00a4ba 40px 40px, #00a4ba 41px 41px, #00a4ba 42px 42px, #00a4ba 43px 43px, #00a4ba 44px 44px, #00a4ba 45px 45px, #00a4ba 46px 46px, #00a4ba 47px 47px, #00a4ba 48px 48px, #00a4ba 49px 49px, #00a4ba 50px 50px, #00a4ba 51px 51px, #00a4ba 52px 52px, #00a4ba 53px 53px, #00a4ba 54px 54px, #00a4ba 55px 55px, #00a4ba 56px 56px, #00a4ba 57px 57px, #00a4ba 58px 58px, #00a4ba 59px 59px, #00a4ba 60px 60px, #00a4ba 61px 61px, #00a4ba 62px 62px, #00a4ba 63px 63px, #00a4ba 64px 64px, #00a4ba 65px 65px, #00a4ba 66px 66px, #00a4ba 67px 67px, #00a4ba 68px 68px, #00a4ba 69px 69px, #00a4ba 70px 70px, #00a4ba 71px 71px, #00a4ba 72px 72px, #00a4ba 73px 73px, #00a4ba 74px 74px, #00a4ba 75px 75px, #00a4ba 76px 76px, #00a4ba 77px 77px, #00a4ba 78px 78px, #00a4ba 79px 79px, #00a4ba 80px 80px, #00a4ba 81px 81px, #00a4ba 82px 82px, #00a4ba 83px 83px, #00a4ba 84px 84px, #00a4ba 85px 85px, #00a4ba 86px 86px, #00a4ba 87px 87px, #00a4ba 88px 88px, #00a4ba 89px 89px, #00a4ba 90px 90px, #00a4ba 91px 91px, #00a4ba 92px 92px, #00a4ba 93px 93px, #00a4ba 94px 94px, #00a4ba 95px 95px, #00a4ba 96px 96px, #00a4ba 97px 97px, #00a4ba 98px 98px, #00a4ba 99px 99px, #00a4ba 100px 100px;
+  text-shadow: #2b96e8 1px 1px, #2b96e8 2px 2px, #2b96e8 3px 3px, #2b96e8 4px 4px, #2b96e8 5px 5px, #2b96e8 6px 6px, #2b96e8 7px 7px, #2b96e8 8px 8px, #2b96e8 9px 9px, #2b96e8 10px 10px, #2b96e8 11px 11px, #2b96e8 12px 12px, #2b96e8 13px 13px, #2b96e8 14px 14px, #2b96e8 15px 15px, #2b96e8 16px 16px, #2b96e8 17px 17px, #2b96e8 18px 18px, #2b96e8 19px 19px, #2b96e8 20px 20px, #2b96e8 21px 21px, #2b96e8 22px 22px, #2b96e8 23px 23px, #2b96e8 24px 24px, #2b96e8 25px 25px, #2b96e8 26px 26px, #2b96e8 27px 27px, #2b96e8 28px 28px, #2b96e8 29px 29px, #2b96e8 30px 30px, #2b96e8 31px 31px, #2b96e8 32px 32px, #2b96e8 33px 33px, #2b96e8 34px 34px, #2b96e8 35px 35px, #2b96e8 36px 36px, #2b96e8 37px 37px, #2b96e8 38px 38px, #2b96e8 39px 39px, #2b96e8 40px 40px, #2b96e8 41px 41px, #2b96e8 42px 42px, #2b96e8 43px 43px, #2b96e8 44px 44px, #2b96e8 45px 45px, #2b96e8 46px 46px, #2b96e8 47px 47px, #2b96e8 48px 48px, #2b96e8 49px 49px, #2b96e8 50px 50px, #2b96e8 51px 51px, #2b96e8 52px 52px, #2b96e8 53px 53px, #2b96e8 54px 54px, #2b96e8 55px 55px, #2b96e8 56px 56px, #2b96e8 57px 57px, #2b96e8 58px 58px, #2b96e8 59px 59px, #2b96e8 60px 60px, #2b96e8 61px 61px, #2b96e8 62px 62px, #2b96e8 63px 63px, #2b96e8 64px 64px, #2b96e8 65px 65px, #2b96e8 66px 66px, #2b96e8 67px 67px, #2b96e8 68px 68px, #2b96e8 69px 69px, #2b96e8 70px 70px, #2b96e8 71px 71px, #2b96e8 72px 72px, #2b96e8 73px 73px, #2b96e8 74px 74px, #2b96e8 75px 75px, #2b96e8 76px 76px, #2b96e8 77px 77px, #2b96e8 78px 78px, #2b96e8 79px 79px, #2b96e8 80px 80px, #2b96e8 81px 81px, #2b96e8 82px 82px, #2b96e8 83px 83px, #2b96e8 84px 84px, #2b96e8 85px 85px, #2b96e8 86px 86px, #2b96e8 87px 87px, #2b96e8 88px 88px, #2b96e8 89px 89px, #2b96e8 90px 90px, #2b96e8 91px 91px, #2b96e8 92px 92px, #2b96e8 93px 93px, #2b96e8 94px 94px, #2b96e8 95px 95px, #2b96e8 96px 96px, #2b96e8 97px 97px, #2b96e8 98px 98px, #2b96e8 99px 99px, #2b96e8 100px 100px;
 }
 
 .wrapper_404 h1 {
   font-size: 200px;
-  color: #02bdd5;
+  color: #2b96e8;
   line-height: 1;
 }
 .wrapper_404 h2 {
@@ -622,15 +622,15 @@ article {
   margin-top: 20px;
 }
 .blog-content .btn-details {
-  color: #02bdd5;
+  color: #2b96e8;
   padding: 0;
-  background: #02bdd5;
+  background: #2b96e8;
   color: #fff;
   padding: 8px 18px;
   border-radius: 0;
   margin-top: 15px;
   border: 1px solid #fff;
-  box-shadow: 0px 0px 0px 1px #02bdd5;
+  box-shadow: 0px 0px 0px 1px #2b96e8;
 }
 
 .blog-post-image {
@@ -695,7 +695,7 @@ article {
   font-size: 15px;
 }
 .sidebar .recent-post ul li a:hover {
-  color: #02bdd5;
+  color: #2b96e8;
 }
 .sidebar .recent-post time {
   font-weight: 300;
@@ -720,9 +720,9 @@ article {
 #contact-section .contact-form .btn-send {
   color: #fff;
   outline: none;
-  background: #02bdd5;
+  background: #2b96e8;
   transition: all linear 0.2s;
-  border-color: #02bdd5;
+  border-color: #2b96e8;
   border-radius: 0;
 }
 #contact-section input {
@@ -764,7 +764,7 @@ article {
 }
 #contact-section .address i, #contact-section .email i, #contact-section .phone i {
   font-size: 45px;
-  color: #02bdd5;
+  color: #2b96e8;
 }
 #contact-section .address h5, #contact-section .email h5, #contact-section .phone h5 {
   font-size: 16px;
@@ -830,7 +830,7 @@ article {
   padding: 30px 20px;
 }
 .single-post .media .media-body a {
-  color: #02bdd5;
+  color: #2b96e8;
   font-size: 12px;
 }
 .single-post .media .media {
@@ -850,7 +850,7 @@ article {
   border-radius: 0;
 }
 .single-post .post-comment .btn-send {
-  background: #02bdd5;
+  background: #2b96e8;
   color: #fff;
   border-radius: 0;
 }
@@ -892,7 +892,7 @@ article {
 
 .btn-work {
   color: #fff;
-  background: #02bdd5;
+  background: #2b96e8;
   border-radius: 0;
 }
 
@@ -904,7 +904,7 @@ article {
 }
 #product-showcase-banner .block h2 {
   font-size: 40px;
-  color: #02bdd5;
+  color: #2b96e8;
   margin-bottom: 20px;
   margin-top: 0;
 }
@@ -932,11 +932,11 @@ article {
   background: #429E38;
 }
 #product-showcase-banner .block .buttons .btn-buy {
-  background: #00AEDA;
-  border-bottom: 3px solid #0190B5;
+  background: #819ca3;
+  border-bottom: 3px solid #2b96e8;
 }
 #product-showcase-banner .block .buttons .btn-buy:hover {
-  background: #0190B5;
+  background: #2b96e8;
 }
 #product-showcase-banner .block .buttons .btn-buy span {
   margin-right: 8px;
@@ -1008,7 +1008,7 @@ article {
 }
 #related-items .block h4 span {
   float: right;
-  color: #02bdd5;
+  color: #2b96e8;
 }
 #related-items .block .img-overly {
   position: relative;
@@ -1043,7 +1043,7 @@ article {
 }
 .service-page .service-parts .block i {
   font-size: 35px;
-  color: #02bdd5;
+  color: #2b96e8;
 }
 .service-page .service-parts .block p {
   padding: 0 8px;
@@ -1072,7 +1072,7 @@ article {
   font-size: 13px;
 }
 .team-member h3 {
-  color: #02bdd5;
+  color: #2b96e8;
   margin-bottom: 0;
   font-size: 20px;
 }
@@ -1080,7 +1080,7 @@ article {
   font-size: 14px;
 }
 .team-member .social-icons a {
-  background: #02bdd5;
+  background: #2b96e8;
   color: #fff;
   padding: 4px 8px;
   display: inline-block;
@@ -1100,7 +1100,7 @@ article {
   margin-bottom: 0;
 }
 #footer .copyright a {
-  color: #02bdd5;
+  color: #2b96e8;
 }
 #footer .social {
   text-align: right;
@@ -1112,11 +1112,11 @@ article {
 }
 #footer .social li a {
   font-size: 22px;
-  color: #02bdd5;
+  color: #2b96e8;
 }
 
 .cd-headline.slide .cd-words-wrapper {
-  color: #02bdd5;
+  color: #2b96e8;
 }
 
 ul.social-icons {

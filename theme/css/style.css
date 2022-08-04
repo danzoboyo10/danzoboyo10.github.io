@@ -283,10 +283,12 @@ a:hover {
   bottom: 0;
   padding-left: 200px;
 }
+
 #hero-area .block {
   position: relative;
   z-index: 9;
 }
+
 #hero-area h1 {
   font-size: 35px;
   line-height: 50px;

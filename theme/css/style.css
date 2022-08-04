@@ -124,7 +124,7 @@ a:hover {
   padding: 15px 8px;
 }
 .fancybox-title h3 {
-  font-size: 15px;
+  font-size: 12px;
   margin: 0;
 }
 
@@ -288,7 +288,7 @@ a:hover {
   z-index: 9;
 }
 #hero-area h1 {
-  font-size: 40px;
+  font-size: 30px;
   line-height: 50px;
   color: #333;
   font-weight: 700;

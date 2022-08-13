@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-h2 {
+h3 {
   font-size: 26px;
 }
 
@@ -191,6 +191,10 @@ a:hover {
   padding: 20px 0;
   background: black;
   box-shadow: none;
+  font-family: Roboto, sans-serif;
+    line-height: 22px;
+    font-size: 16px;
+    font-weight: 300;
 }
 
 .navbar {
@@ -297,7 +301,7 @@ a:hover {
   margin-bottom: 15px;
   text-transform: uppercase;
 }
-#hero-area h2 {
+#hero-area h3 {
   font-size: 18px;
   font-weight: 300;
   margin-bottom: 38px;
@@ -322,7 +326,7 @@ a:hover {
 }
 
 #call-to-action {
-  background: #050504;
+  background: white;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
@@ -337,7 +341,7 @@ a:hover {
 }
 #call-to-action .block h2 {
   margin-bottom: 15px;
-  color: #fff;
+  color: black
 }
 #call-to-action .block p {
   font-size: 15px;
@@ -346,9 +350,9 @@ a:hover {
   margin-top: 20px;
 }
 #call-to-action .block .btn-contact {
-  background: #fff;
+  background: black;
   border: 2px solid #fff;
-  color: #b9d4f3;
+  color: white;
   padding: 15px 34px;
   margin-top: 20px;
   font-size: 12px;
@@ -537,7 +541,7 @@ figure figcaption p {
 }
 #feature .media {
   margin: 0px 0 70px 0;
-  color: #009ee3;
+  color: black;
 }
 #feature .media .media-left {
   padding-right: 25px;
@@ -1067,26 +1071,33 @@ article {
 .team-member {
   margin-top: 30px;
 }
+
 .team-member:hover .team-img img {
   opacity: 0.8;
 }
+
 .team-member .team-img {
   position: relative;
 }
+
 .team-member .team-img .team-pic {
   width: 100%;
 }
+
 .team-member .team_designation {
   font-size: 13px;
 }
+
 .team-member h3 {
   color: #2b96e8;
   margin-bottom: 0;
   font-size: 20px;
 }
+
 .team-member p {
   font-size: 14px;
 }
+
 .team-member .social-icons a {
   background: #2b96e8;
   color: #fff;
@@ -1099,7 +1110,7 @@ article {
 }
 
 #footer {
-  background: #fff;
+  background: black;
   padding: 25px 0;
   color: #555;
 }
@@ -1114,18 +1125,27 @@ article {
   text-align: right;
   margin-bottom: 0;
 }
+
 #footer .social li {
   display: inline-block;
   margin-right: 15px;
 }
+
 #footer .social li a {
+  font-size: 22px;
+  color: white
+}
+
+#footer .social li a:hover {
   font-size: 22px;
   color: #2b96e8;
 }
 
+
 .cd-headline.slide .cd-words-wrapper {
   color: #2b96e8;
 }
+
 
 ul.social-icons {
   height: auto;
@@ -1165,6 +1185,12 @@ ul.social-icons li {
   height: 100%;
 }
 
+#contactDanny {
+  padding-bottom: 50px;
+}
 
-  
-
+#sendMessageLink {
+    text-decoration: none;
+    color: inherit;
+    
+}

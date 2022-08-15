@@ -123,6 +123,7 @@ a:hover {
 .fancybox-title {
   padding: 15px 8px;
 }
+
 .fancybox-title h3 {
   font-size: 12px;
   margin: 0;
@@ -1192,5 +1193,5 @@ ul.social-icons li {
 #sendMessageLink {
     text-decoration: none;
     color: inherit;
-    
+
 }
